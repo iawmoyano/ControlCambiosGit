@@ -17,6 +17,7 @@ public class ControlCambiosGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Comienzo del proyecto");
+        System.out.println("Cambio 2");
     }
     
 }
