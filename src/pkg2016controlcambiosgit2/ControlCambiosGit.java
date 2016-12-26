@@ -19,6 +19,7 @@ public class ControlCambiosGit {
         System.out.println("Comienzo del proyecto");
         System.out.println("Cambio 0");
         System.out.println("Cambio 2");
+        System.out.println("Cambio 5");
         System.out.println("Cambio 3");
     }
     
