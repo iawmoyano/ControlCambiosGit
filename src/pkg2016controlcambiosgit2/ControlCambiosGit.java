@@ -17,11 +17,8 @@ public class ControlCambiosGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Comienzo del proyecto");
-        System.out.println("Cambio 22");
-        System.out.println("Cambio 3");
-        System.out.println("Cambio 0");
         System.out.println("Cambio 2");
-        System.out.println("Cambio 33");
+        System.out.println("Cambio 3");
     }
     
 }
